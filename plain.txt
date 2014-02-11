@@ -1,0 +1,2164 @@
+**The Project Gutenberg Etext of Dorothy and the Wizard in Oz** 
+#4 in our L. Frank Baum series
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Dorothy and the Wizard in Oz
+
+by L. Frank Baum
+
+January, 1996 [Etext #420]
+
+
+**The Project Gutenberg Etext of Dorothy and the Wizard in Oz** 
+*****This file should be named doroz10.txt or doroz10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, doroz11.txt.
+VERSIONS based on separate sources get new LETTER, doroz10a.txt.
+
+
+This etext was created by Dennis Amundson, Fargo, North Dakota.
+Etext was typed in from an unabridged edition of the text.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, for time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+fifty hours is one conservative estimate for how long it we take
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $4
+million dollars per hour this year as we release some eight text
+files per month:  thus upping our productivity from $2 million.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by the December 31, 2001.  [10,000 x 100,000,000=Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is 10% of the expected number of computer users by the end
+of the year 2001.
+
+We need your donations more than ever!
+
+All donations should be made to "Project Gutenberg/IBC", and are
+tax deductible to the extent allowable by law ("IBC" is Illinois
+Benedictine College).  (Subscriptions to our paper newsletter go
+to IBC, too)
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails try our Michael S. Hart, Executive
+Director:
+hart@vmd.cso.uiuc.edu (internet)   hart@uiucvmd   (bitnet)
+
+We would prefer to send you this information by email
+(Internet, Bitnet, Compuserve, ATTMAIL or MCImail).
+
+******
+If you have an FTP program (or emulator), please
+FTP directly to the Project Gutenberg archives:
+[Mac users, do NOT point and click. . .type]
+
+ftp uiarchive.cso.uiuc.edu
+login:  anonymous
+password:  your@login
+cd etext/etext90 through /etext96
+or cd etext/articles [get suggest gut for more information]
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET INDEX?00.GUT
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT* for newsletters.
+
+**Information prepared by the Project Gutenberg legal advisor**
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Illinois Benedictine College (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association / Illinois
+     Benedictine College" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Illinois Benedictine College".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+Dorothy and the Wizard in Oz
+
+A Faithful Record of Their Amazing Adventures
+  in an Underground World; and How with the
+   Aid of Their Friends Zeb Hugson, Eureka
+     the Kitten, and Jim the Cab-Horse,
+          They Finally Reached the
+              Wonderful Land
+                  of Oz
+
+by L. Frank Baum
+"Royal Historian of Oz"
+
+
+--To My Readers--
+1.  The Earthquake
+2.  The Glass City
+3.  The Arrival of the Wizard
+4.  The Vegetable Kingdom
+5.  Dorothy Picks the Princess
+6.  The Mangaboos Prove Dangerous
+7.  Into the Black Pit and Out Again
+8.  The Valley of Voices
+9.  They Fight the Invisible Bears
+10.  The Braided Man of Pyramid Mountain
+11.  They Meet the Wooden Gargoyles
+12.  A Wonderful Escape
+13.  The Den of the Dragonettes
+14.  Ozma Uses the Magic Belt
+15.  Old Friends are Reunited
+16.  Jim, the Cab-Horse
+17.  The Nine Tiny Piglets
+18.  The Trial of Eureka, the Kitten
+19.  The Wizard Performs Another Trick
+20.  Zeb Returns to the Ranch
+
+
+
+
+To My Readers
+
+
+It's no use; no use at all.  The children won't let me stop telling
+tales of the Land of Oz.  I know lots of other stories, and I hope to
+tell them, some time or another; but just now my loving tyrants won't
+allow me.  They cry: "Oz--Oz! more about Oz, Mr. Baum!" and what can I
+do but obey their commands?
+
+This is Our Book--mine and the children's.  For they have flooded me
+with thousands of suggestions in regard to it, and I have honestly
+tried to adopt as many of these suggestions as could be fitted into
+one story.
+
+After the wonderful success of "Ozma of Oz" it is evident that Dorothy
+has become a firm fixture in these Oz stories.  The little ones all
+love Dorothy, and as one of my small friends aptly states: "It isn't a
+real Oz story without her."  So here she is again, as sweet and gentle
+and innocent as ever, I hope, and the heroine of another strange adventure.
+
+There were many requests from my little correspondents for "more about
+the Wizard."  It seems the jolly old fellow made hosts of friends in
+the first Oz book, in spite of the fact that he frankly acknowledged
+himself "a humbug."  The children had heard how he mounted into the
+sky in a balloon and they were all waiting for him to come down again.
+So what could I do but tell "what happened to the Wizard afterward"?
+You will find him in these pages, just the same humbug Wizard as before.
+
+There was one thing the children demanded which I found it impossible
+to do in this present book: they bade me introduce Toto, Dorothy's
+little black dog, who has many friends among my readers.  But you will
+see, when you begin to read the story, that Toto was in Kansas while
+Dorothy was in California, and so she had to start on her adventure
+without him.  In this book Dorothy had to take her kitten with her
+instead of her dog; but in the next Oz book, if I am permitted to
+write one, I intend to tell a good deal about Toto's further history.
+
+Princess Ozma, whom I love as much as my readers do, is again
+introduced in this story, and so are several of our old friends of Oz.
+You will also become acquainted with Jim the Cab-Horse, the Nine Tiny
+Piglets, and Eureka, the Kitten.  I am sorry the kitten was not as
+well behaved as she ought to have been; but perhaps she wasn't brought
+up properly.  Dorothy found her, you see, and who her parents were
+nobody knows.
+
+I believe, my dears, that I am the proudest story-teller that ever
+lived.  Many a time tears of pride and joy have stood in my eyes while
+I read the tender, loving, appealing letters that came to me in almost
+every mail from my little readers.  To have pleased you, to have
+interested you, to have won your friendship, and perhaps your love,
+through my stories, is to my mind as great an achievement as to become
+President of the United States.  Indeed, I would much rather be your
+story-teller, under these conditions, than to be the President.  So
+you have helped me to fulfill my life's ambition, and I am more
+grateful to you, my dears, than I can express in words.
+
+I try to answer every letter of my young correspondents; yet sometimes
+there are so many letters that a little time must pass before you get
+your answer.  But be patient, friends, for the answer will surely
+come, and by writing to me you more than repay me for the pleasant
+task of preparing these books.  Besides, I am proud to acknowledge
+that the books are partly yours, for your suggestions often guide me in
+telling the stories, and I am sure they would not be half so good
+without your clever and thoughtful assistance.
+
+L. FRANK BAUM
+
+Coronado, 1908.
+
+
+
+
+1.  The Earthquake
+
+
+The train from 'Frisco was very late.  It should have arrived at
+Hugson's Siding at midnight, but it was already five o'clock and the
+gray dawn was breaking in the east when the little train slowly
+rumbled up to the open shed that served for the station-house.  As it
+came to a stop the conductor called out in a loud voice:
+
+"Hugson's Siding!"
+
+At once a little girl rose from her seat and walked to the door of the
+car, carrying a wicker suit-case in one hand and a round bird-cage
+covered up with newspapers in the other, while a parasol was tucked
+under her arm.  The conductor helped her off the car and then the
+engineer started his train again, so that it puffed and groaned and
+moved slowly away up the track.  The reason he was so late was because
+all through the night there were times when the solid earth shook and
+trembled under him, and the engineer was afraid that at any moment the
+rails might spread apart and an accident happen to his passengers.  So
+he moved the cars slowly and with caution.
+
+The little girl stood still to watch until the train had disappeared
+around a curve; then she turned to see where she was.
+
+The shed at Hugson's Siding was bare save for an old wooden bench, and
+did not look very inviting.  As she peered through the soft gray light
+not a house of any sort was visible near the station, nor was any
+person in sight; but after a while the child discovered a horse and
+buggy standing near a group of trees a short distance away.  She
+walked toward it and found the horse tied to a tree and standing
+motionless, with its head hanging down almost to the ground.  It was a
+big horse, tall and bony, with long legs and large knees and feet.
+She could count his ribs easily where they showed through the skin of
+his body, and his head was long and seemed altogether too big for him,
+as if it did not fit.  His tail was short and scraggly, and his
+harness had been broken in many places and fastened together again
+with cords and bits of wire.  The buggy seemed almost new, for it had
+a shiny top and side curtains.  Getting around in front, so that she
+could look inside, the girl saw a boy curled up on the seat, fast asleep.
+
+She set down the bird-cage and poked the boy with her parasol.
+Presently he woke up, rose to a sitting position and rubbed
+his eyes briskly.
+
+"Hello!" he said, seeing her, "are you Dorothy Gale?"
+
+"Yes," she answered, looking gravely at his tousled hair and blinking
+gray eyes.  "Have you come to take me to Hugson's Ranch?"
+
+"Of course," he answered.  "Train in?"
+
+"I couldn't be here if it wasn't," she said.
+
+He laughed at that, and his laugh was merry and frank.  Jumping out of
+the buggy he put Dorothy's suit-case under the seat and her bird-cage
+on the floor in front.
+
+"Canary-birds?" he asked.
+
+"Oh no; it's just Eureka, my kitten.  I thought that was the best way
+to carry her."
+
+The boy nodded.
+
+"Eureka's a funny name for a cat," he remarked.
+
+"I named my kitten that because I found it," she explained.  "Uncle
+Henry says 'Eureka' means 'I have found it.'"
+
+"All right; hop in."
+
+She climbed into the buggy and he followed her.  Then the boy picked
+up the reins, shook them, and said "Gid-dap!"
+
+The horse did not stir.  Dorothy thought he just wiggled one of his
+drooping ears, but that was all.
+
+"Gid-dap!" called the boy, again.
+
+The horse stood still.
+
+"Perhaps," said Dorothy, "if you untied him, he would go."
+
+The boy laughed cheerfully and jumped out.
+
+"Guess I'm half asleep yet," he said, untying the horse.  "But Jim
+knows his business all right--don't you, Jim?" patting the long nose
+of the animal.
+
+Then he got into the buggy again and took the reins, and the horse at
+once backed away from the tree, turned slowly around, and began to
+trot down the sandy road which was just visible in the dim light.
+
+"Thought that train would never come," observed the boy.  "I've
+waited at that station for five hours."
+
+"We had a lot of earthquakes," said Dorothy.  "Didn't you feel the
+ground shake?"
+
+"Yes; but we're used to such things in California," he replied.  "They
+don't scare us much."
+
+"The conductor said it was the worst quake he ever knew."
+
+"Did he?  Then it must have happened while I was asleep,"
+he said thoughtfully.
+
+"How is Uncle Henry?" she enquired, after a pause during which the
+horse continued to trot with long, regular strides.
+
+"He's pretty well.  He and Uncle Hugson have been having a fine visit."
+
+"Is Mr. Hugson your uncle?" she asked.
+
+"Yes.  Uncle Bill Hugson married your Uncle Henry's wife's sister;
+so we must be second cousins," said the boy, in an amused tone.
+"I work for Uncle Bill on his ranch, and he pays me six dollars a month
+and my board."
+
+"Isn't that a great deal?" she asked, doubtfully.
+
+"Why, it's a great deal for Uncle Hugson, but not for me.  I'm a
+splendid worker.  I work as well as I sleep," he added, with a laugh.
+
+"What is your name?" said Dorothy, thinking she liked the boy's manner
+and the cheery tone of his voice.
+
+"Not a very pretty one," he answered, as if a little ashamed.  "My
+whole name is Zebediah; but folks just call me 'Zeb.'  You've been to
+Australia, haven't you?"
+
+"Yes; with Uncle Henry," she answered.  "We got to San Francisco a
+week ago, and Uncle Henry went right on to Hugson's Ranch for a visit
+while I stayed a few days in the city with some friends we had met."
+
+"How long will you be with us?" he asked.
+
+"Only a day.  Tomorrow Uncle Henry and I must start back for Kansas.
+We've been away for a long time, you know, and so we're anxious to get
+home again."
+
+The boy flicked the big, boney horse with his whip and looked
+thoughtful.  Then he started to say something to his little companion,
+but before he could speak the buggy began to sway dangerously from side
+to side and the earth seemed to rise up before them.  Next minute
+there was a roar and a sharp crash, and at her side Dorothy saw the
+ground open in a wide crack and then come together again.
+
+"Goodness!" she cried, grasping the iron rail of the seat.
+"What was that?"
+
+"That was an awful big quake," replied Zeb, with a white face.  "It
+almost got us that time, Dorothy."
+
+The horse had stopped short, and stood firm as a rock.  Zeb shook the
+reins and urged him to go, but Jim was stubborn.  Then the boy cracked
+his whip and touched the animal's flanks with it, and after a low moan
+of protest Jim stepped slowly along the road.
+
+Neither the boy nor the girl spoke again for some minutes.  There was
+a breath of danger in the very air, and every few moments the earth
+would shake violently.  Jim's ears were standing erect upon his head
+and every muscle of his big body was tense as he trotted toward home.
+He was not going very fast, but on his flanks specks of foam began to
+appear and at times he would tremble like a leaf.
+
+The sky had grown darker again and the wind made queer sobbing sounds
+as it swept over the valley.
+
+Suddenly there was a rending, tearing sound, and the earth split into
+another great crack just beneath the spot where the horse was
+standing.  With a wild neigh of terror the animal fell bodily into the
+pit, drawing the buggy and its occupants after him.
+
+Dorothy grabbed fast hold of the buggy top and the boy did the same.
+The sudden rush into space confused them so that they could not think.
+
+Blackness engulfed them on every side, and in breathless silence they
+waited for the fall to end and crush them against jagged rocks or for
+the earth to close in on them again and bury them forever in its
+dreadful depths.
+
+The horrible sensation of falling, the darkness and the terrifying
+noises, proved more than Dorothy could endure and for a few moments
+the little girl lost consciousness.  Zeb, being a boy, did not faint,
+but he was badly frightened, and clung to the buggy seat with a tight
+grip, expecting every moment would be his last.
+
+
+
+2.  The Glass City
+
+
+When Dorothy recovered her senses they were still falling, but not so
+fast.  The top of the buggy caught the air like a parachute or an
+umbrella filled with wind, and held them back so that they floated
+downward with a gentle motion that was not so very disagreeable to
+bear.  The worst thing was their terror of reaching the bottom of this
+great crack in the earth, and the natural fear that sudden death was
+about to overtake them at any moment.  Crash after crash echoed far
+above their heads, as the earth came together where it had split, and
+stones and chunks of clay rattled around them on every side.  These
+they could not see, but they could feel them pelting the buggy top,
+and Jim screamed almost like a human being when a stone overtook him
+and struck his boney body.  They did not really hurt the poor horse,
+because everything was falling together; only the stones and rubbish
+fell faster than the horse and buggy, which were held back by the
+pressure of the air, so that the terrified animal was actually more
+frightened than he was injured.
+
+How long this state of things continued Dorothy could not even guess,
+she was so greatly bewildered.  But bye and bye, as she stared ahead
+into the black chasm with a beating heart, she began to dimly see the
+form of the horse Jim--his head up in the air, his ears erect and his
+long legs sprawling in every direction as he tumbled through space.
+Also, turning her head, she found that she could see the boy beside
+her, who had until now remained as still and silent as she herself.
+
+Dorothy sighed and commenced to breathe easier.  She began to realize
+that death was not in store for her, after all, but that she had merely
+started upon another adventure, which promised to be just as queer and
+unusual as were those she had before encountered.
+
+With this thought in mind the girl took heart and leaned her head over
+the side of the buggy to see where the strange light was coming from.
+Far below her she found six great glowing balls suspended in the air.
+The central and largest one was white, and reminded her of the sun.
+Around it were arranged, like the five points of a star, the other
+five brilliant balls; one being rose colored, one violet, one yellow,
+one blue and one orange.  This splendid group of colored suns sent
+rays darting in every direction, and as the horse and buggy--with
+Dorothy and Zeb--sank steadily downward and came nearer to the lights,
+the rays began to take on all the delicate tintings of a rainbow,
+growing more and more distinct every moment until all the space was
+brilliantly illuminated.
+
+Dorothy was too dazed to say much, but she watched one of Jim's big
+ears turn to violet and the other to rose, and wondered that his tail
+should be yellow and his body striped with blue and orange like the
+stripes of a zebra.  Then she looked at Zeb, whose face was blue and
+whose hair was pink, and gave a little laugh that sounded a bit nervous.
+
+"Isn't it funny?" she said.
+
+The boy was startled and his eyes were big.  Dorothy had a green
+streak through the center of her face where the blue and yellow lights
+came together, and her appearance seemed to add to his fright.
+
+"I--I don't s-s-see any-thing funny--'bout it!" he stammered.
+
+Just then the buggy tipped slowly over upon its side, the body of the
+horse tipping also.  But they continued to fall, all together, and the
+boy and girl had no difficulty in remaining upon the seat, just as
+they were before.  Then they turned bottom side up, and continued to
+roll slowly over until they were right side up again.  During this
+time Jim struggled frantically, all his legs kicking the air; but on
+finding himself in his former position the horse said, in a relieved
+tone of voice:
+
+"Well, that's better!"
+
+Dorothy and Zeb looked at one another in wonder.
+
+"Can your horse talk?" she asked.
+
+"Never knew him to, before," replied the boy.
+
+"Those were the first words I ever said," called out the horse, who
+had overheard them, "and I can't explain why I happened to speak then.
+This is a nice scrape you've got me into, isn't it?"
+
+"As for that, we are in the same scrape ourselves," answered Dorothy,
+cheerfully.  "But never mind; something will happen pretty soon."
+
+"Of course," growled the horse, "and then we shall be sorry it happened."
+
+Zeb gave a shiver.  All this was so terrible and unreal that he could
+not understand it at all, and so had good reason to be afraid.
+
+Swiftly they drew near to the flaming colored suns, and passed close
+beside them.  The light was then so bright that it dazzled their eyes,
+and they covered their faces with their hands to escape being blinded.
+There was no heat in the colored suns, however, and after they had
+passed below them the top of the buggy shut out many of the piercing
+rays so that the boy and girl could open their eyes again.
+
+"We've got to come to the bottom some time," remarked Zeb, with a deep
+sigh.  "We can't keep falling forever, you know."
+
+"Of course not," said Dorothy.  "We are somewhere in the middle of the
+earth, and the chances are we'll reach the other side of it before
+long.  But it's a big hollow, isn't it?"
+
+"Awful big!" answered the boy.
+
+"We're coming to something now," announced the horse.
+
+At this they both put their heads over the side of the buggy and
+looked down.  Yes; there was land below them; and not so very far
+away, either.  But they were floating very, very slowly--so slowly
+that it could no longer be called a fall--and the children had ample
+time to take heart and look about them.
+
+They saw a landscape with mountains and plains, lakes and rivers, very
+like those upon the earth's surface; but all the scene was splendidly
+colored by the variegated lights from the six suns.  Here and there
+were groups of houses that seemed made of clear glass, because they
+sparkled so brightly.
+
+"I'm sure we are in no danger," said Dorothy, in a sober voice.  "We
+are falling so slowly that we can't be dashed to pieces when we land,
+and this country that we are coming to seems quite pretty."
+
+"We'll never get home again, though!" declared Zeb, with a groan.
+
+"Oh, I'm not so sure of that," replied the girl.  "But don't let us
+worry over such things, Zeb; we can't help ourselves just now, you
+know, and I've always been told it's foolish to borrow trouble."
+
+The boy became silent, having no reply to so sensible a speech, and
+soon both were fully occupied in staring at the strange scenes spread
+out below them.  They seemed to be falling right into the middle of a
+big city which had many tall buildings with glass domes and
+sharp-pointed spires.  These spires were like great spear-points,
+and if they tumbled upon one of them they were likely to suffer
+serious injury.
+
+Jim the horse had seen these spires, also, and his ears stood straight
+up with fear, while Dorothy and Zeb held their breaths in suspense.
+But no; they floated gently down upon a broad, flat roof, and came to
+a stop at last.
+
+When Jim felt something firm under his feet the poor beast's legs
+trembled so much that he could hardly stand; but Zeb at once leaped
+out of the buggy to the roof, and he was so awkward and hasty that he
+kicked over Dorothy's bird-cage, which rolled out upon the roof so
+that the bottom came off.  At once a pink kitten crept out of the
+upset cage, sat down upon the glass roof, and yawned and blinked its
+round eyes.
+
+"Oh," said Dorothy.  "There's Eureka."
+
+"First time I ever saw a pink cat," said Zeb.
+
+"Eureka isn't pink; she's white.  It's this queer light that gives her
+that color."
+
+"Where's my milk?" asked the kitten, looking up into Dorothy's face.
+"I'm 'most starved to death."
+
+"Oh, Eureka!  Can you talk?"
+
+"Talk!  Am I talking?  Good gracious, I believe I am.  Isn't it
+funny?" asked the kitten.
+
+"It's all wrong." said Zeb, gravely.  "Animals ought not to talk.  But
+even old Jim has been saying things since we had our accident."
+
+"I can't see that it's wrong," remarked Jim, in his gruff tones.  "At
+least, it isn't as wrong as some other things.  What's going to become
+of us now?"
+
+"I don't know," answered the boy, looking around him curiously.
+
+The houses of the city were all made of glass, so clear and
+transparent that one could look through the walls as easily as through
+a window.  Dorothy saw, underneath the roof on which she stood,
+several rooms used for rest chambers, and even thought she could make
+out a number of queer forms huddled into the corners of these rooms.
+
+The roof beside them had a great hole smashed through it, and pieces
+of glass were lying scattered in every direction.  A nearby steeple
+had been broken off short and the fragments lay heaped beside it.
+Other buildings were cracked in places or had corners chipped off from
+them; but they must have been very beautiful before these accidents
+had happened to mar their perfection.  The rainbow tints from the
+colored suns fell upon the glass city softly and gave to the buildings
+many delicate, shifting hues which were very pretty to see.
+
+But not a sound had broken the stillness since the strangers had arrived,
+except that of their own voices.  They began to wonder if there were
+no people to inhabit this magnificent city of the inner world.
+
+Suddenly a man appeared through a hole in the roof next to the one
+they were on and stepped into plain view.  He was not a very large man,
+but was well formed and had a beautiful face--calm and serene as the face
+of a fine portrait.  His clothing fitted his form snugly and was gorgeously
+colored in brilliant shades of green, which varied as the sunbeams
+touched them but was not wholly influenced by the solar rays.
+
+The man had taken a step or two across the glass roof before he
+noticed the presence of the strangers; but then he stopped abruptly.
+There was no expression of either fear or surprise upon his tranquil
+face, yet he must have been both astonished and afraid; for after his
+eyes had rested upon the ungainly form of the horse for a moment he
+walked rapidly to the furthest edge of the roof, his head turned back
+over his shoulder to gaze at the strange animal.
+
+"Look out!" cried Dorothy, who noticed that the beautiful man did not
+look where he was going; "be careful, or you'll fall off!"
+
+But he paid no attention to her warning.  He reached the edge of the
+tall roof, stepped one foot out into the air, and walked into space as
+calmly as if he were on firm ground.
+
+The girl, greatly astonished, ran to lean over the edge of the roof,
+and saw the man walking rapidly through the air toward the ground.
+Soon he reached the street and disappeared through a glass doorway
+into one of the glass buildings.
+
+"How strange!" she exclaimed, drawing a long breath.
+
+"Yes; but it's lots of fun, if it IS strange," remarked the small
+voice of the kitten, and Dorothy turned to find her pet walking in the
+air a foot or so away from the edge of the roof.
+
+"Come back, Eureka!" she called, in distress, "you'll certainly be killed."
+
+"I have nine lives," said the kitten, purring softly as it walked
+around in a circle and then came back to the roof;  "but I can't lose
+even one of them by falling in this country, because I really couldn't
+manage to fall if I wanted to."
+
+"Does the air bear up your weight?" asked the girl.
+
+"Of course; can't you see?" and again the kitten wandered into the air
+and back to the edge of the roof.
+
+"It's wonderful!" said Dorothy.
+
+"Suppose we let Eureka go down to the street and get some one to help
+us," suggested Zeb, who had been even more amazed than Dorothy at
+these strange happenings.
+
+"Perhaps we can walk on the air ourselves," replied the girl.
+
+Zeb drew back with a shiver.
+
+"I wouldn't dare try," he said.
+
+"Maybe Jim will go," continued Dorothy, looking at the horse.
+
+"And maybe he won't!" answered Jim.  "I've tumbled through the air
+long enough to make me contented on this roof."
+
+"But we didn't tumble to the roof," said the girl; "by the time we
+reached here we were floating very slowly, and I'm almost sure we
+could float down to the street without getting hurt.  Eureka walks on
+the air all right."
+
+"Eureka weights only about half a pound," replied the horse, in a
+scornful tone, "while I weigh about half a ton."
+
+"You don't weigh as much as you ought to, Jim," remarked the girl,
+shaking her head as she looked at the animal.  "You're dreadfully skinny."
+
+"Oh, well; I'm old," said the horse, hanging his head despondently,
+"and I've had lots of trouble in my day, little one.  For a good many years
+I drew a public cab in Chicago, and that's enough to make anyone skinny."
+
+"He eats enough to get fat, I'm sure," said the boy, gravely.
+
+"Do I?  Can you remember any breakfast that I've had today?" growled
+Jim, as if he resented Zeb's speech.
+
+"None of us has had breakfast," said the boy; "and in a time of danger
+like this it's foolish to talk about eating."
+
+"Nothing is more dangerous than being without food," declared the
+horse, with a sniff at the rebuke of his young master; "and just at
+present no one can tell whether there are any oats in this queer
+country or not.  If there are, they are liable to be glass oats!"
+
+"Oh, no!" exclaimed Dorothy.  "I can see plenty of nice gardens and
+fields down below us, at the edge of this city.  But I wish we could
+find a way to get to the ground."
+
+"Why don't you walk down?" asked Eureka.  "I'm as hungry as the horse
+is, and I want my milk."
+
+"Will you try it, Zeb" asked the girl, turning to her companion.
+
+Zeb hesitated.  He was still pale and frightened, for this dreadful
+adventure had upset him and made him nervous and worried.  But he did
+not wish the little girl to think him a coward, so he advanced slowly
+to the edge of the roof.
+
+Dorothy stretched out a hand to him and Zeb put one foot out and let it
+rest in the air a little over the edge of the roof.  It seemed firm
+enough to walk upon, so he took courage and put out the other foot.
+Dorothy kept hold of his hand and followed him, and soon they were
+both walking through the air, with the kitten frisking beside them.
+
+"Come on, Jim!" called the boy.  "It's all right."
+
+Jim had crept to the edge of the roof to look over, and being a
+sensible horse and quite experienced, he made up his mind that he
+could go where the others did.  So, with a snort and a neigh and a
+whisk of his short tail he trotted off the roof into the air and at
+once began floating downward to the street.  His great weight made him
+fall faster than the children walked, and he passed them on the way
+down; but when he came to the glass pavement he alighted upon it so
+softly that he was not even jarred.
+
+"Well, well!" said Dorothy, drawing a long breath, "What a strange
+country this is."
+
+People began to come out of the glass doors to look at the new
+arrivals, and pretty soon quite a crowd had assembled.  There were men
+and women, but no children at all, and the folks were all beautifully
+formed and attractively dressed and had wonderfully handsome faces.
+There was not an ugly person in all the throng, yet Dorothy was not
+especially pleased by the appearance of these people because their
+features had no more expression than the faces of dolls.  They did not
+smile nor did they frown, or show either fear or surprise or curiosity
+or friendliness.  They simply started at the strangers, paying most
+attention to Jim and Eureka, for they had never before seen either a
+horse or a cat and the children bore an outward resemblance to themselves.
+
+Pretty soon a man joined the group who wore a glistening star in the
+dark hair just over his forehead.  He seemed to be a person of
+authority, for the others pressed back to give him room.  After
+turning his composed eyes first upon the animals and then upon the
+children he said to Zeb, who was a little taller than Dorothy:
+
+"Tell me, intruder, was it you who caused the Rain of Stones?"
+
+For a moment the boy did not know what he meant by this question.
+Then, remembering the stones that had fallen with them and passed them
+long before they had reached this place, he answered:
+
+"No, sir; we didn't cause anything.  It was the earthquake."
+
+The man with the star stood for a time quietly thinking over this
+speech.  Then he asked:
+
+"What is an earthquake?"
+
+"I don't know," said Zeb, who was still confused.  But Dorothy, seeing
+his perplexity, answered:
+
+"It's a shaking of the earth.  In this quake a big crack opened and we
+fell through--horse and buggy, and all--and the stones got loose and
+came down with us."
+
+The man with the star regarded her with his calm, expressionless eyes.
+
+"The Rain of Stones has done much damage to our city," he said;
+"and we shall hold you responsible for it unless you can prove
+your innocence."
+
+"How can we do that?" asked the girl.
+
+"That I am not prepared to say.  It is your affair, not mine.
+You must go to the House of the Sorcerer, who will soon discover
+the truth."
+
+"Where is the House of the Sorcerer?" the girl enquired.
+
+"I will lead you to it.  Come!"
+
+He turned and walked down the street, and after a moment's hesitation
+Dorothy caught Eureka in her arms and climbed into the buggy.  The boy
+took his seat beside her and said: "Gid-dap Jim."
+
+As the horse ambled along, drawing the buggy, the people of the glass
+city made way for them and formed a procession in their rear.  Slowly
+they moved down one street and up another, turning first this way and
+then that, until they came to an open square in the center of which
+was a big glass palace having a central dome and four tall spires on
+each corner.
+
+
+
+3.  The Arrival Of The Wizard
+
+
+The doorway of the glass palace was quite big enough for the horse and
+buggy to enter, so Zeb drove straight through it and the children
+found themselves in a lofty hall that was very beautiful.  The people
+at once followed and formed a circle around the sides of the spacious
+room, leaving the horse and buggy and the man with the star to occupy
+the center of the hall.
+
+"Come to us, oh, Gwig!" called the man, in a loud voice.
+
+Instantly a cloud of smoke appeared and rolled over the floor; then it
+slowly spread and ascended into the dome, disclosing a strange
+personage seated upon a glass throne just before Jim's nose.  He was
+formed just as were the other inhabitants of this land and his
+clothing only differed from theirs in being bright yellow.  But he had
+no hair at all, and all over his bald head and face and upon the backs
+of his hands grew sharp thorns like those found on the branches of
+rose-bushes.  There was even a thorn upon the tip of his nose and he
+looked so funny that Dorothy laughed when she saw him.
+
+The Sorcerer, hearing the laugh, looked toward the little girl with
+cold, cruel eyes, and his glance made her grow sober in an instant.
+
+"Why have you dared to intrude your unwelcome persons into the
+secluded Land of the Mangaboos?" he asked, sternly.
+
+"'Cause we couldn't help it," said Dorothy.
+
+"Why did you wickedly and viciously send the Rain of Stones to crack
+and break our houses?" he continued.
+
+"We didn't," declared the girl.
+
+"Prove it!" cried the Sorcerer.
+
+"We don't have to prove it," answered Dorothy, indignantly.  "If you
+had any sense at all you'd known it was the earthquake."
+
+"We only know that yesterday came a Rain of Stones upon us, which did
+much damage and injured some of our people.  Today came another Rain
+of Stones, and soon after it you appeared among us."
+
+"By the way," said the man with the star, looking steadily at the
+Sorcerer, "you told us yesterday that there would not be a second Rain
+of Stones.  Yet one has just occurred that was even worse than the
+first.  What is your sorcery good for if it cannot tell us the truth?"
+
+"My sorcery does tell the truth!" declared the thorn-covered man.  "I
+said there would be but one Rain of Stones.  This second one was a Rain
+of People-and-Horse-and-Buggy.  And some stones came with them."
+
+"Will there be any more Rains?" asked the man with the star.
+
+"No, my Prince."
+
+"Neither stones nor people?"
+
+"No, my Prince."
+
+"Are you sure?"
+
+"Quite sure, my Prince.  My sorcery tells me so."
+
+Just then a man came running into the hall and addressed the Prince
+after making a low bow.
+
+"More wonders in the air, my Lord," said he.
+
+Immediately the Prince and all of his people flocked out of the hall
+into the street, that they might see what was about to happen.
+Dorothy and Zeb jumped out of the buggy and ran after them, but the
+Sorcerer remained calmly in his throne.
+
+Far up in the air was an object that looked like a balloon.  It was not
+so high as the glowing star of the six colored suns, but was
+descending slowly through the air--so slowly that at first it scarcely
+seemed to move.
+
+The throng stood still and waited.  It was all they could do, for to
+go away and leave that strange sight was impossible; nor could they
+hurry its fall in any way.  The earth children were not noticed, being
+so near the average size of the Mangaboos, and the horse had remained
+in the House of the Sorcerer, with Eureka curled up asleep on the seat
+of the buggy.
+
+Gradually the balloon grew bigger, which was proof that it was settling
+down upon the Land of the Mangaboos.  Dorothy was surprised to find
+how patient the people were, for her own little heart was beating
+rapidly with excitement.  A balloon meant to her some other arrival
+from the surface of the earth, and she hoped it would be some one able
+to assist her and Zeb out of their difficulties.
+
+In an hour the balloon had come near enough for her to see a basket
+suspended below it; in two hours she could see a head looking over the
+side of the basket; in three hours the big balloon settled slowly into the
+great square in which they stood and came to rest on the glass pavement.
+
+Then a little man jumped out of the basket, took off his tall hat, and
+bowed very gracefully to the crowd of Mangaboos around him.  He was
+quite an old little man and his head was long and entirely bald.
+
+"Why," cried Dorothy, in amazement, "it's Oz!"
+
+The little man looked toward her and seemed as much surprised as she
+was.  But he smiled and bowed as he answered:
+
+"Yes, my dear; I am Oz, the Great and Terrible.  Eh?  And you are
+little Dorothy, from Kansas.  I remember you very well."
+
+"Who did you say it was?" whispered Zeb to the girl.
+
+"It's the wonderful Wizard of Oz.  Haven't you heard of him?"
+
+Just then the man with the star came and stood before the Wizard.
+
+"Sir," said he, "why are you here, in the Land of the Mangaboos?"
+
+"Didn't know what land it was, my son," returned the other, with a
+pleasant smile; "and, to be honest, I didn't mean to visit you when I
+started out.  I live on top of the earth, your honor, which is far
+better than living inside it; but yesterday I went up in a balloon,
+and when I came down I fell into a big crack in the earth, caused by
+an earthquake.  I had let so much gas out of my balloon that I could
+not rise again, and in a few minutes the earth closed over my head.
+So I continued to descend until I reached this place, and if you will
+show me a way to get out of it, I'll go with pleasure.  Sorry to have
+troubled you; but it couldn't be helped."
+
+The Prince had listened with attention.  Said he:
+
+"This child, who is from the crust of the earth, like yourself, called
+you a Wizard.  Is not a Wizard something like a Sorcerer?"
+
+"It's better," replied Oz, promptly.  "One Wizard is worth
+three Sorcerers."
+
+"Ah, you shall prove that," said the Prince.  "We Mangaboos have, at
+the present time, one of the most wonderful Sorcerers that ever was
+picked from a bush; but he sometimes makes mistakes.  Do you ever
+make mistakes?"
+
+"Never!" declared the Wizard, boldly.
+
+"Oh, Oz!" said Dorothy; "you made a lot of mistakes when you were in
+the marvelous Land of Oz."
+
+"Nonsense!" said the little man, turning red--although just then a ray
+of violet sunlight was on his round face.
+
+"Come with me," said the Prince to him.  "I wish to meet our Sorcerer."
+
+The Wizard did not like this invitation, but he could not refuse to
+accept it.  So he followed the Prince into the great domed hall,
+and Dorothy and Zeb came after them, while the throng of people
+trooped in also.
+
+There sat the thorny Sorcerer in his chair of state, and when the
+Wizard saw him he began to laugh, uttering comical little chuckles.
+
+"What an absurd creature!" he exclaimed.
+
+"He may look absurd," said the Prince, in his quiet voice; "but he is
+an excellent Sorcerer.  The only fault I find with him is that he is
+so often wrong."
+
+"I am never wrong," answered the Sorcerer.
+
+"Only a short time ago you told me there would be no more Rain of
+Stones or of People," said the Prince.
+
+"Well, what then?"
+
+"Here is another person descended from the air to prove you were wrong."
+
+"One person cannot be called 'people,'" said the Sorcerer.  "If two
+should come out of the sky you might with justice say I was wrong; but
+unless more than this one appears I will hold that I was right."
+
+"Very clever," said the Wizard, nodding his head as if pleased.  "I am
+delighted to find humbugs inside the earth, just the same as on top of
+it.  Were you ever with a circus, brother?"
+
+"No," said the Sorcerer.
+
+"You ought to join one," declared the little man seriously.  "I belong
+to Bailum & Barney's Great Consolidated Shows--three rings in one tent
+and a menagerie on the side.  It's a fine aggregation, I assure you."
+
+"What do you do?" asked the Sorcerer.
+
+"I go up in a balloon, usually, to draw the crowds to the circus.  But
+I've just had the bad luck to come out of the sky, skip the solid
+earth, and land lower down than I intended.  But never mind.  It isn't
+everybody who gets a chance to see your Land of the Gabazoos."
+
+"Mangaboos," said the Sorcerer, correcting him.  "If you are a Wizard
+you ought to be able to call people by their right names."
+
+"Oh, I'm a Wizard; you may be sure of that.  Just as good a Wizard as
+you are a Sorcerer."
+
+"That remains to be seen," said the other.
+
+"If you are able to prove that you are better," said the Prince to the
+little man, "I will make you the Chief Wizard of this domain.
+Otherwise--"
+
+"What will happen otherwise?" asked the Wizard.
+
+"I will stop you from living and forbid you to be planted," returned
+the Prince.
+
+"That does not sound especially pleasant," said the little man, looking
+at the one with the star uneasily.  "But never mind.  I'll beat Old
+Prickly, all right."
+
+"My name is Gwig," said the Sorcerer, turning his heartless, cruel eyes
+upon his rival.  "Let me see you equal the sorcery I am about to perform."
+
+He waved a thorny hand and at once the tinkling of bells was heard,
+playing sweet music.  Yet, look where she would, Dorothy could
+discover no bells at all in the great glass hall.
+
+The Mangaboo people listened, but showed no great interest.  It was
+one of the things Gwig usually did to prove he was a sorcerer.
+
+Now was the Wizard's turn, so he smiled upon the assemblage and asked:
+
+"Will somebody kindly loan me a hat?"
+
+No one did, because the Mangaboos did not wear hats, and Zeb had lost
+his, somehow, in his flight through the air.
+
+"Ahem!" said the Wizard, "will somebody please loan me a handkerchief?"
+
+But they had no handkerchiefs, either.
+
+"Very good," remarked the Wizard.  "I'll use my own hat, if you
+please.  Now, good people, observe me carefully.  You see, there is
+nothing up my sleeve and nothing concealed about my person.  Also, my
+hat is quite empty."  He took off his hat and held it upside down,
+shaking it briskly.
+
+"Let me see it," said the Sorcerer.
+
+He took the hat and examined it carefully, returning it afterward to
+the Wizard.
+
+"Now," said the little man, "I will create something out of nothing."
+
+He placed the hat upon the glass floor, made a pass with his hand, and
+then removed the hat, displaying a little white piglet no bigger than
+a mouse, which began to run around here and there and to grunt and
+squeal in a tiny, shrill voice.
+
+The people watched it intently, for they had never seen a pig before,
+big or little.  The Wizard reached out, caught the wee creature in his
+hand, and holding its head between one thumb and finger and its tail
+between the other thumb and finger he pulled it apart, each of the two
+parts becoming a whole and separate piglet in an instant.
+
+He placed one upon the floor, so that it could run around, and pulled
+apart the other, making three piglets in all; and then one of these
+was pulled apart, making four piglets.  The Wizard continued this
+surprising performance until nine tiny piglets were running about at
+his feet, all squealing and grunting in a very comical way.
+
+"Now," said the Wizard of Oz, "having created something from nothing,
+I will make something nothing again."
+
+With this he caught up two of the piglets and pushed them together,
+so that the two were one.  Then he caught up another piglet and
+pushed it into the first, where it disappeared.  And so, one by one,
+the nine tiny piglets were pushed together until but a single one of
+the creatures remained.  This the Wizard placed underneath his hat and
+made a mystic sign above it.  When he removed his hat the last piglet
+had disappeared entirely.
+
+The little man gave a bow to the silent throng that had watched him,
+and then the Prince said, in his cold, calm voice:
+
+"You are indeed a wonderful Wizard, and your powers are greater than
+those of my Sorcerer."
+
+"He will not be a wonderful Wizard long," remarked Gwig.
+
+"Why not?" enquired the Wizard.
+
+"Because I am going to stop your breath," was the reply.  "I perceive
+that you are curiously constructed, and that if you cannot breathe you
+cannot keep alive."
+
+The little man looked troubled.
+
+"How long will it take you to stop my breath?" he asked.
+
+"About five minutes.  I'm going to begin now.  Watch me carefully."
+
+He began making queer signs and passes toward the Wizard; but the
+little man did not watch him long.  Instead, he drew a leathern case
+from his pocket and took from it several sharp knives, which he joined
+together, one after another, until they made a long sword.  By the
+time he had attached a handle to this sword he was having much trouble
+to breathe, as the charm of the Sorcerer was beginning to take effect.
+
+So the Wizard lost no more time, but leaping forward he raised the
+sharp sword, whirled it once or twice around his head, and then gave a
+mighty stroke that cut the body of the Sorcerer exactly in two.
+
+Dorothy screamed and expected to see a terrible sight; but as the two
+halves of the Sorcerer fell apart on the floor she saw that he had no
+bones or blood inside of him at all, and that the place where he was
+cut looked much like a sliced turnip or potato.
+
+"Why, he's vegetable!" cried the Wizard, astonished.
+
+"Of course," said the Prince.  "We are all vegetable, in this country.
+Are you not vegetable, also?"
+
+"No," answered the Wizard.  "People on top of the earth are all meat.
+Will your Sorcerer die?"
+
+"Certainly, sir.  He is really dead now, and will wither very quickly.
+So we must plant him at once, that other Sorcerers may grow upon his
+bush," continued the Prince.
+
+"What do you mean by that?" asked the little Wizard, greatly puzzled.
+
+"If you will accompany me to our public gardens," replied the Prince,
+"I will explain to you much better than I can here the mysteries of
+our Vegetable Kingdom."
+
+
+
+4.  The Vegetable Kingdom
+
+
+After the Wizard had wiped the dampness from his sword and taken it
+apart and put the pieces into their leathern case again, the man with
+the star ordered some of his people to carry the two halves of the
+Sorcerer to the public gardens.
+
+Jim pricked up his ears when he heard they were going to the gardens,
+and wanted to join the party, thinking he might find something proper
+to eat; so Zeb put down the top of the buggy and invited the Wizard to
+ride with them.  The seat was amply wide enough for the little man and
+the two children, and when Jim started to leave the hall the kitten
+jumped upon his back and sat there quite contentedly.
+
+So the procession moved through the streets, the bearers of the
+Sorcerer first, the Prince next, then Jim drawing the buggy with the
+strangers inside of it, and last the crowd of vegetable people who had
+no hearts and could neither smile nor frown.
+
+The glass city had several fine streets, for a good many people lived
+there; but when the procession had passed through these it came upon a
+broad plain covered with gardens and watered by many pretty brooks
+that flowed through it.  There were paths through these gardens, and
+over some of the brooks were ornamental glass bridges.
+
+Dorothy and Zeb now got out of the buggy and walked beside the Prince,
+so that they might see and examine the flowers and plants better.
+
+"Who built these lovely bridges?" asked the little girl.
+
+"No one built them," answered the man with the star.  "They grow."
+
+"That's queer," said she.  "Did the glass houses in your city grow, too?"
+
+"Of course," he replied.  "But it took a good many years for them to
+grow as large and fine as they are now.  That is why we are so angry
+when a Rain of Stones comes to break our towers and crack our roofs."
+
+"Can't you mend them?" she enquired.
+
+"No; but they will grow together again, in time, and we must wait
+until they do."
+
+They first passed through many beautiful gardens of flowers, which
+grew nearest the city; but Dorothy could hardly tell what kind of
+flowers they were, because the colors were constantly changing under
+the shifting lights of the six suns.  A flower would be pink one
+second, white the next, then blue or yellow; and it was the same way
+when they came to the plants, which had broad leaves and grew close to
+the ground.
+
+When they passed over a field of grass Jim immediately stretched down
+his head and began to nibble.
+
+"A nice country this is," he grumbled, "where a respectable horse has
+to eat pink grass!"
+
+"It's violet," said the Wizard, who was in the buggy.
+
+"Now it's blue," complained the horse.  "As a matter of fact, I'm
+eating rainbow grass."
+
+"How does it taste?" asked the Wizard.
+
+"Not bad at all," said Jim.  "If they give me plenty of it I'll not
+complain about its color."
+
+By this time the party had reached a freshly plowed field, and the
+Prince said to Dorothy:
+
+"This is our planting-ground."
+
+Several Mangaboos came forward with glass spades and dug a hole in the
+ground.  Then they put the two halves of the Sorcerer into it and
+covered him up.  After that other people brought water from a brook
+and sprinkled the earth.
+
+"He will sprout very soon," said the Prince, "and grow into a large bush,
+from which we shall in time be able to pick several very good sorcerers."
+
+"Do all your people grow on bushes?" asked the boy.
+
+"Certainly," was the reply.  "Do not all people grow upon bushes where
+you came from, on the outside of the earth?"
+
+"Not that I ever hear of."
+
+"How strange!  But if you will come with me to one of our folk gardens
+I will show you the way we grow in the Land of the Mangaboos."
+
+It appeared that these odd people, while they were able to walk
+through the air with ease, usually moved upon the ground in the
+ordinary way.  There were no stairs in their houses, because they did
+not need them, but on a level surface they generally walked just as we do.
+
+The little party of strangers now followed the Prince across a few
+more of the glass bridges and along several paths until they came to a
+garden enclosed by a high hedge.  Jim had refused to leave the field
+of grass, where he was engaged in busily eating; so the Wizard got out
+of the buggy and joined Zeb and Dorothy, and the kitten followed
+demurely at their heels.
+
+Inside the hedge they came upon row after row of large and handsome
+plants with broad leaves gracefully curving until their points nearly
+reached the ground.  In the center of each plant grew a daintily
+dressed Mangaboo, for the clothing of all these creatures grew upon
+them and was attached to their bodies.
+
+The growing Mangaboos were of all sizes, from the blossom that had
+just turned into a wee baby to the full-grown and almost ripe man or
+woman.  On some of the bushes might be seen a bud, a blossom, a baby,
+a half-grown person and a ripe one; but even those ready to pluck were
+motionless and silent, as if devoid of life.  This sight explained to
+Dorothy why she had seen no children among the Mangaboos, a thing she
+had until now been unable to account for.
+
+"Our people do not acquire their real life until they leave their bushes,"
+said the Prince.  "You will notice they are all attached to the plants by
+the soles of their feet, and when they are quite ripe they are easily
+separated from the stems and at once attain the powers of motion
+and speech.  So while they grow they cannot be said to really live,
+and they must be picked before they can become good citizens."
+
+"How long do you live, after you are picked?" asked Dorothy.
+
+"That depends upon the care we take of ourselves," he replied.  "If we
+keep cool and moist, and meet with no accidents, we often live for
+five years.  I've been picked over six years, but our family is known
+to be especially long lived."
+
+"Do you eat?" asked the boy.
+
+"Eat!  No, indeed.  We are quite solid inside our bodies, and have no
+need to eat, any more than does a potato."
+
+"But the potatoes sometimes sprout," said Zeb.
+
+"And sometimes we do," answered the Prince; "but that is considered a
+great misfortune, for then we must be planted at once."
+
+"Where did you grow?" asked the Wizard.
+
+"I will show you," was the reply. "Step this way, please."
+
+He led them within another but smaller circle of hedge, where grew one
+large and beautiful bush.
+
+"This," said he, "is the Royal Bush of the Mangaboos.  All of our
+Princes and Rulers have grown upon this one bush from time immemorial."
+
+They stood before it in silent admiration.  On the central stalk stood
+poised the figure of a girl so exquisitely formed and colored and so
+lovely in the expression of her delicate features that Dorothy thought
+she had never seen so sweet and adorable a creature in all her life.
+The maiden's gown was soft as satin and fell about her in ample folds,
+while dainty lace-like traceries trimmed the bodice and sleeves.  Her
+flesh was fine and smooth as polished ivory, and her poise expressed
+both dignity and grace.
+
+"Who is this?" asked the Wizard, curiously.
+
+The Prince had been staring hard at the girl on the bush.  Now he
+answered, with a touch of uneasiness in his cold tones:
+
+"She is the Ruler destined to be my successor, for she is a Royal
+Princess.  When she becomes fully ripe I must abandon the sovereignty
+of the Mangaboos to her."
+
+"Isn't she ripe now?" asked Dorothy.
+
+He hesitated.
+
+"Not quite," said he, finally.  "It will be several days before she
+needs to be picked, or at least that is my judgment.  I am in no hurry
+to resign my office and be planted, you may be sure."
+
+"Probably not," declared the Wizard, nodding.
+
+"This is one of the most unpleasant things about our vegetable lives,"
+continued the Prince, with a sigh, "that while we are in our full
+prime we must give way to another, and be covered up in the ground to
+sprout and grow and give birth to other people."
+
+"I'm sure the Princess is ready to be picked," asserted Dorothy,
+gazing hard at the beautiful girl on the bush.  "She's as perfect as
+she can be."
+
+"Never mind," answered the Prince, hastily, "she will be all right for
+a few days longer, and it is best for me to rule until I can dispose
+of you strangers, who have come to our land uninvited and must be
+attended to at once."
+
+"What are you going to do with us?" asked Zeb.
+
+"That is a matter I have not quite decided upon," was the reply.  "I
+think I shall keep this Wizard until a new Sorcerer is ready to pick,
+for he seems quite skillful and may be of use to us.  But the rest of
+you must be destroyed in some way, and you cannot be planted,
+because I do not wish horses and cats and meat people growing all over
+our country."
+
+"You needn't worry," said Dorothy.  "We wouldn't grow under ground,
+I'm sure."
+
+"But why destroy my friends?" asked the little Wizard.  "Why not let
+them live?"
+
+"They do not belong here," returned the Prince.  "They have no right
+to be inside the earth at all."
+
+"We didn't ask to come down here; we fell," said Dorothy.
+
+"That is no excuse," declared the Prince, coldly.
+
+The children looked at each other in perplexity, and the Wizard
+sighed.  Eureka rubbed her paw on her face and said in her soft,
+purring voice:
+
+"He won't need to destroy ME, for if I don't get something to eat
+pretty soon I shall starve to death, and so save him the trouble."
+
+"If he planted you, he might grow some cat-tails," suggested the Wizard.
+
+"Oh, Eureka! perhaps we can find you some milk-weeds to eat,"
+said the boy.
+
+"Phoo!" snarled the kitten; "I wouldn't touch the nasty things!"
+
+"You don't need milk, Eureka," remarked Dorothy; "you are big enough
+now to eat any kind of food."
+
+"If I can get it," added Eureka.
+
+"I'm hungry myself," said Zeb.  "But I noticed some strawberries
+growing in one of the gardens, and some melons in another place.
+These people don't eat such things, so perhaps on our way back they
+will let us get them."
+
+"Never mind your hunger," interrupted the Prince.  "I shall order you
+destroyed in a few minutes, so you will have no need to ruin our pretty
+melon vines and berry bushes.  Follow me, please, to meet your doom."
+
+
+
+5.  Dorothy Picks the Princess
+
+
+The words of the cold and moist vegetable Prince were not very
+comforting, and as he spoke them he turned away and left the
+enclosure.  The children, feeling sad and despondent, were about to
+follow him when the Wizard touched Dorothy softly on her shoulder.
+
+"Wait!" he whispered.
+
+"What for?" asked the girl.
+
+"Suppose we pick the Royal Princess," said the Wizard.  "I'm quite
+sure she's ripe, and as soon as she comes to life she will be the
+Ruler, and may treat us better than that heartless Prince intends to."
+
+"All right!" exclaimed Dorothy, eagerly.  "Let's pick her while we
+have the chance, before the man with the star comes back."
+
+So together they leaned over the great bush and each of them seized
+one hand of the lovely Princess.
+
+"Pull!" cried Dorothy, and as they did so the royal lady leaned toward
+them and the stems snapped and separated from her feet.  She was not
+at all heavy, so the Wizard and Dorothy managed to lift her gently to
+the ground.
+
+The beautiful creature passed her hands over her eyes an instant,
+tucked in a stray lock of hair that had become disarranged, and after
+a look around the garden made those present a gracious bow and said,
+in a sweet but even toned voice:
+
+"I thank you very much."
+
+"We salute your Royal Highness!" cried the Wizard, kneeling and
+kissing her hand.
+
+Just then the voice of the Prince was heard calling upon them to
+hasten, and a moment later he returned to the enclosure, followed by a
+number of his people.
+
+Instantly the Princess turned and faced him, and when he saw that she
+was picked the Prince stood still and began to tremble.
+
+"Sir," said the Royal Lady, with much dignity, "you have wronged me
+greatly, and would have wronged me still more had not these strangers
+come to my rescue.  I have been ready for picking all the past week,
+but because you were selfish and desired to continue your unlawful
+rule, you left me to stand silent upon my bush."
+
+"I did not know that you were ripe," answered the Prince, in a low voice.
+
+"Give me the Star of Royalty!" she commanded.
+
+Slowly he took the shining star from his own brow and placed it upon
+that of the Princess.  Then all the people bowed low to her, and the
+Prince turned and walked away alone.  What became of him afterward our
+friends never knew.
+
+The people of Mangaboo now formed themselves into a procession and
+marched toward the glass city to escort their new ruler to her palace
+and to perform those ceremonies proper to the occasion.  But while the
+people in the procession walked upon the ground the Princess walked in
+the air just above their heads, to show that she was a superior being
+and more exalted than her subjects.
+
+No one now seemed to pay any attention to the strangers, so Dorothy
+and Zeb and the Wizard let the train pass on and then wandered by
+themselves into the vegetable gardens.  They did not bother to cross
+the bridges over the brooks, but when they came to a stream they
+stepped high and walked in the air to the other side.  This was a very
+interesting experience to them, and Dorothy said:
+
+"I wonder why it is that we can walk so easily in the air."
+
+"Perhaps," answered the Wizard, "it is because we are close to the
+center of the earth, where the attraction of gravitation is very slight.
+But I've noticed that many queer things happen in fairy countries."
+
+"Is this a fairy country?" asked the boy.
+
+"Of course it is," returned Dorothy promptly.  "Only a fairy country
+could have veg'table people; and only in a fairy country could Eureka
+and Jim talk as we do."
+
+"That's true," said Zeb, thoughtfully.
+
+In the vegetable gardens they found the strawberries and melons, and
+several other unknown but delicious fruits, of which they ate
+heartily.  But the kitten bothered them constantly by demanding milk
+or meat, and called the Wizard names because he could not bring her a
+dish of milk by means of his magical arts.
+
+As they sat upon the grass watching Jim, who was still busily eating,
+Eureka said:
+
+"I don't believe you are a Wizard at all!"
+
+"No," answered the little man, "you are quite right.  In the strict
+sense of the word I am not a Wizard, but only a humbug."
+
+"The Wizard of Oz has always been a humbug," agreed Dorothy.  "I've
+known him for a long time."
+
+"If that is so," said the boy, "how could he do that wonderful trick
+with the nine tiny piglets?"
+
+"Don't know," said Dorothy, "but it must have been humbug."
+
+"Very true," declared the Wizard, nodding at her.  "It was necessary
+to deceive that ugly Sorcerer and the Prince, as well as their stupid
+people; but I don't mind telling you, who are my friends, that the
+thing was only a trick."
+
+"But I saw the little pigs with my own eyes!" exclaimed Zeb.
+
+"So did I," purred the kitten.
+
+"To be sure," answered the Wizard.  "You saw them because they were
+there.  They are in my inside pocket now.  But the pulling of them
+apart and pushing them together again was only a sleight-of-hand trick."
+
+"Let's see the pigs," said Eureka, eagerly.
+
+The little man felt carefully in his pocket and pulled out the tiny
+piglets, setting them upon the grass one by one, where they ran around
+and nibbled the tender blades.
+
+"They're hungry, too," he said.
+
+"Oh, what cunning things!" cried Dorothy, catching up one and petting it.
+
+"Be careful!" said the piglet, with a squeal, "you're squeezing me!"
+
+"Dear me!" murmured the Wizard, looking at his pets in astonishment.
+"They can actually talk!"
+
+"May I eat one of them?" asked the kitten, in a pleading voice.  "I'm
+awfully hungry."
+
+"Why, Eureka," said Dorothy, reproachfully, "what a cruel question!
+It would be dreadful to eat these dear little things."
+
+"I should say so!" grunted another of the piglets, looking uneasily at
+the kitten; "cats are cruel things."
+
+"I'm not cruel," replied the kitten, yawning.  "I'm just hungry."
+
+"You cannot eat my piglets, even if you are starving,"  declared the
+little man, in a stern voice.  "They are the only things I have to
+prove I'm a wizard."
+
+"How did they happen to be so little?" asked Dorothy.  "I never saw
+such small pigs before."
+
+"They are from the Island of Teenty-Weent," said the Wizard, "where
+everything is small because it's a small island.  A sailor brought
+them to Los Angeles and I gave him nine tickets to the circus for them."
+
+"But what am I going to eat?" wailed the kitten, sitting in front of
+Dorothy and looking pleadingly into her face.  "There are no cows here
+to give milk; or any mice, or even grasshoppers.  And if I can't eat
+the piglets you may as well plant me at once and raise catsup."
+
+"I have an idea," said the Wizard, "that there are fishes in these
+brooks.  Do you like fish?"
+
+"Fish!" cried the kitten.  "Do I like fish?  Why, they're better than
+piglets--or even milk!"
+
+"Then I'll try to catch you some," said he.
+
+"But won't they be veg'table, like everything else here?" asked the kitten.
+
+"I think not.  Fishes are not animals, and they are as cold and moist
+as the vegetables themselves.  There is no reason, that I can see, why
+they may not exist in the waters of this strange country."
+
+Then the Wizard bent a pin for a hook and took a long piece of string
+from his pocket for a fish-line.  The only bait he could find was a
+bright red blossom from a flower; but he knew fishes are easy to fool
+if anything bright attracts their attention, so he decided to try the
+blossom.  Having thrown the end of his line in the water of a nearby
+brook he soon felt a sharp tug that told him a fish had bitten and was
+caught on the bent pin; so the little man drew in the string and, sure
+enough, the fish came with it and was landed safely on the shore,
+where it began to flop around in great excitement.
+
+The fish was fat and round, and its scales glistened like beautifully
+cut jewels set close together; but there was no time to examine it
+closely, for Eureka made a jump and caught it between her claws, and
+in a few moments it had entirely disappeared.
+
+"Oh, Eureka!" cried Dorothy, "did you eat the bones?"
+
+"If it had any bones, I ate them," replied the kitten, composedly, as
+it washed its face after the meal.  "But I don't think that fish had
+any bones, because I didn't feel them scratch my throat."
+
+"You were very greedy," said the girl.
+
+"I was very hungry," replied the kitten.
+
+The little pigs had stood huddled in a group, watching this scene with
+frightened eyes.
+
+"Cats are dreadful creatures!" said one of them.
+
+"I'm glad we are not fishes!" said another.
+
+"Don't worry,"  Dorothy murmured, soothingly,  "I'll not let the
+kitten hurt you."
+
+Then she happened to remember that in a corner of her suit-case were
+one or two crackers that were left over from her luncheon on the
+train, and she went to the buggy and brought them.  Eureka stuck up
+her nose at such food, but the tiny piglets squealed delightedly at
+the sight of the crackers and ate them up in a jiffy.
+
+"Now let us go back to the city," suggested the Wizard.  "That is, if
+Jim has had enough of the pink grass."
+
+The cab-horse, who was browsing near, lifted his head with a sigh.
+
+"I've tried to eat a lot while I had the chance," said he, "for it's
+likely to be a long while between meals in this strange country.  But
+I'm ready to go, now, at any time you wish."
+
+So, after the Wizard had put the piglets back into his inside pocket,
+where they cuddled up and went to sleep, the three climbed into the
+buggy and Jim started back to the town.
+
+"Where shall we stay?" asked the girl.
+
+"I think I shall take possession of the House of the Sorcerer,"
+replied the Wizard; "for the Prince said in the presence of his people
+that he would keep me until they picked another Sorcerer, and the new
+Princess won't know but that we belong there."
+
+They agreed to this plan, and when they reached the great square Jim
+drew the buggy into the big door of the domed hall.
+
+"It doesn't look very homelike," said Dorothy, gazing around at the
+bare room.  "But it's a place to stay, anyhow."
+
+"What are those holes up there?" enquired the boy, pointing to some
+openings that appeared near the top of the dome.
+
+"They look like doorways," said Dorothy; "only there are no stairs to
+get to them."
+
+"You forget that stairs are unnecessary," observed the Wizard.  "Let
+us walk up, and see where the doors lead to."
+
+With this he began walking in the air toward the high openings, and
+Dorothy and Zeb followed him.  It was the same sort of climb one
+experiences when walking up a hill, and they were nearly out of breath
+when they came to the row of openings, which they perceived to be
+doorways leading into halls in the upper part of the house.  Following
+these halls they discovered many small rooms opening from them, and
+some were furnished with glass benches, tables and chairs.  But there
+were no beds at all.
+
+"I wonder if these people never sleep," said the girl.
+
+"Why, there seems to be no night at all in this country," Zeb replied.
+"Those colored suns are exactly in the same place they were when we
+came, and if there is no sunset there can be no night."
+
+"Very true," agreed the Wizard.  "But it is a long time since I have
+had any sleep, and I'm tired.  So I think I shall lie down upon one of
+these hard glass benches and take a nap."
+
+"I will, too," said Dorothy, and chose a little room at the end
+of the hall.
+
+Zeb walked down again to unharness Jim, who, when he found himself
+free, rolled over a few times and then settled down to sleep, with
+Eureka nestling comfortably beside his big, boney body.  Then the boy
+returned to one of the upper rooms, and in spite of the hardness of
+the glass bench was soon deep in slumberland.
+
+
+
+6.  The Mangaboos Prove Dangerous
+
+
+When the Wizard awoke the six colored suns were shining down upon the
+Land of the Mangaboos just as they had done ever since his arrival.
+The little man, having had a good sleep, felt rested and refreshed,
+and looking through the glass partition of the room he saw Zeb sitting
+up on his bench and yawning.  So the Wizard went in to him.
+
+"Zeb," said he, "my balloon is of no further use in this strange
+country, so I may as well leave it on the square where it fell.  But
+in the basket-car are some things I would like to keep with me.  I
+wish you would go and fetch my satchel, two lanterns, and a can of
+kerosene oil that is under the seat.  There is nothing else that I
+care about."
+
+So the boy went willingly upon the errand, and by the time he had
+returned Dorothy was awake.  Then the three held a counsel to decide
+what they should do next, but could think of no way to better
+their condition.
+
+"I don't like these veg'table people," said the little girl.  "They're
+cold and flabby, like cabbages, in spite of their prettiness."
+
+"I agree with you.  It is because there is no warm blood in them,"
+remarked the Wizard.
+
+"And they have no hearts; so they can't love anyone--not even
+themselves," declared the boy.
+
+"The Princess is lovely to look at," continued Dorothy, thoughtfully;
+"but I don't care much for her, after all.  If there was any other
+place to go, I'd like to go there."
+
+"But IS there any other place?" asked the Wizard.
+
+"I don't know," she answered.
+
+Just then they heard the big voice of Jim the cab-horse calling to them,
+and going to the doorway leading to the dome they found the Princess
+and a throng of her people had entered the House of the Sorcerer.
+
+So they went down to greet the beautiful vegetable lady, who said to them:
+
+"I have been talking with my advisors about you meat people, and we
+have decided that you do not belong in the Land of the Mangaboos and
+must not remain here."
+
+"How can we go away?" asked Dorothy.
+
+"Oh, you cannot go away, of course; so you must be destroyed," was
+the answer.
+
+"In what way?" enquired the Wizard.
+
+"We shall throw you three people into the Garden of the Twining
+Vines," said the Princess, "and they will soon crush you and devour
+your bodies to make themselves grow bigger.  The animals you have with
+you we will drive to the mountains and put into the Black Pit.  Then
+our country will be rid of all its unwelcome visitors."
+
+"But you are in need of a Sorcerer," said the Wizard, "and not one of
+those growing is yet ripe enough to pick.  I am greater than any
+thorn-covered sorcerer that every grew in your garden.  Why destroy me?"
+
+"It is true we need a Sorcerer," acknowledged the Princess, "but I am
+informed that one of our own will be ready to pick in a few days, to
+take the place of Gwig, whom you cut in two before it was time for him
+to be planted.  Let us see your arts, and the sorceries you are able
+to perform.  Then I will decide whether to destroy you with the others
+or not."
+
+At this the Wizard made a bow to the people and repeated his trick of
+producing the nine tiny piglets and making them disappear again.  He
+did it very cleverly, indeed, and the Princess looked at the strange
+piglets as if she were as truly astonished as any vegetable person
+could be.  But afterward she said:
+
+"I have heard of this wonderful magic.  But it accomplishes nothing of
+value.  What else can you do?"
+
+The Wizard tried to think.  Then he jointed together the blades of his
+sword and balanced it very skillfully upon the end of his nose.  But
+even that did not satisfy the Princess.
+
+Just then his eye fell upon the lanterns and the can of kerosene oil
+which Zeb had brought from the car of his balloon, and he got a clever
+idea from those commonplace things.
+
+"Your Highness," said he, "I will now proceed to prove my magic by
+creating two suns that you have never seen before; also I will exhibit
+a Destroyer much more dreadful that your Clinging Vines."
+
+So he placed Dorothy upon one side of him and the boy upon the other
+and set a lantern upon each of their heads.
+
+"Don't laugh," he whispered to them, "or you will spoil the effect of
+my magic."
+
+Then, with much dignity and a look of vast importance upon his
+wrinkled face, the Wizard got out his match-box and lighted the two
+lanterns. The glare they made was very small when compared with the
+radiance of the six great colored suns; but still they gleamed
+steadily and clearly.  The Mangaboos were much impressed because
+they had never before seen any light that did not come directly
+from their suns.
+
+Next the Wizard poured a pool of oil from the can upon the glass floor,
+where it covered quite a broad surface.  When he lighted the oil a hundred
+tongues of flame shot up, and the effect was really imposing.
+
+"Now, Princess," exclaimed the Wizard, "those of your advisors who
+wished to throw us into the Garden of Clinging Vines must step within
+this circle of light.  If they advised you well, and were in the
+right, they will not be injured in any way.  But if any advised you
+wrongly, the light will wither him."
+
+The advisors of the Princess did not like this test; but she commanded
+them to step into the flame and one by one they did so, and were
+scorched so badly that the air was soon filled with an odor like that
+of baked potatoes.  Some of the Mangaboos fell down and had to be
+dragged from the fire, and all were so withered that it would be
+necessary to plant them at once.
+
+"Sir," said the Princess to the Wizard, "you are greater than any Sorcerer
+we have ever known.  As it is evident that my people have advised me
+wrongly, I will not cast you three people into the dreadful Garden of
+the Clinging Vines; but your animals must be driven into the Black Pit
+in the mountain, for my subjects cannot bear to have them around."
+
+The Wizard was so pleased to have saved the two children and himself
+that he said nothing against this decree; but when the Princess had
+gone both Jim and Eureka protested they did not want to go to the
+Black Pit, and Dorothy promised she would do all that she could to
+save them from such a fate.
+
+For two or three days after this--if we call days the periods between
+sleep, there being no night to divide the hours into days--our friends
+were not disturbed in any way.  They were even permitted to occupy the
+House of the Sorcerer in peace, as if it had been their own, and to
+wander in the gardens in search of food.
+
+Once they came near to the enclosed Garden of the Clinging Vines, and
+walking high into the air looked down upon it with much interest.
+They saw a mass of tough green vines all matted together and writhing
+and twisting around like a nest of great snakes.  Everything the vines
+touched they crushed, and our adventurers were indeed thankful to have
+escaped being cast among them.
+
+Whenever the Wizard went to sleep he would take the nine tiny piglets
+from his pocket and let them run around on the floor of his room to
+amuse themselves and get some exercise; and one time they found his
+glass door ajar and wandered into the hall and then into the bottom
+part of the great dome, walking through the air as easily as Eureka
+could.  They knew the kitten, by this time, so they scampered over to
+where she lay beside Jim and commenced to frisk and play with her.
+
+The cab-horse, who never slept long at a time, sat upon his haunches
+and watched the tiny piglets and the kitten with much approval.
+
+"Don't be rough!" he would call out, if Eureka knocked over one of the
+round, fat piglets with her paw; but the pigs never minded, and
+enjoyed the sport very greatly.
+
+Suddenly they looked up to find the room filled with the silent,
+solemn-eyed Mangaboos.  Each of the vegetable folks bore a branch
+covered with sharp thorns, which was thrust defiantly toward the
+horse, the kitten and the piglets.
+
+"Here--stop this foolishness!" Jim roared, angrily; but after being
+pricked once or twice he got upon his four legs and kept out of the
+way of the thorns.
+
+The Mangaboos surrounded them in solid ranks, but left an opening to
+the doorway of the hall; so the animals slowly retreated until they
+were driven from the room and out upon the street.  Here were more of
+the vegetable people with thorns,and silently they urged the now
+frightened creatures down the street.  Jim had to be careful not to
+step upon the tiny piglets, who scampered under his feet grunting and
+squealing, while Eureka, snarling and biting at the thorns pushed
+toward her, also tried to protect the pretty little things from
+injury.  Slowly but steadily the heartless Mangaboos drove them on,
+until they had passed through the city and the gardens and come to the
+broad plains leading to the mountain.
+
+"What does all this mean, anyhow?" asked the horse, jumping to escape
+a thorn.
+
+"Why, they are driving us toward the Black Pit, into which they
+threatened to cast us," replied the kitten.  "If I were as big as you
+are, Jim, I'd fight these miserable turnip-roots!"
+
+"What would you do?" enquired Jim.
+
+"I'd kick out with those long legs and iron-shod hoofs."
+
+"All right," said the horse; "I'll do it."
+
+An instant later he suddenly backed toward the crowd of Mangaboos and
+kicked out his hind legs as hard as he could.  A dozen of them smashed
+together and tumbled to the ground, and seeing his success Jim kicked
+again and again, charging into the vegetable crowd, knocking them in
+all directions and sending the others scattering to escape his iron
+heels.  Eureka helped him by flying into the faces of the enemy and
+scratching and biting furiously, and the kitten ruined so many
+vegetable complexions that the Mangaboos feared her as much as they
+did the horse.
+
+But the foes were too many to be repulsed for long.  They tired Jim
+and Eureka out, and although the field of battle was thickly covered
+with mashed and disabled Mangaboos, our animal friends had to give up
+at last and allow themselves to be driven to the mountain.
+
+
+
+7.  Into the Black Pit and Out Again
+
+
+When they came to the mountain it proved to be a rugged, towering
+chunk of deep green glass, and looked dismal and forbidding in the
+extreme.  Half way up the steep was a yawning cave, black as night
+beyond the point where the rainbow rays of the colored suns reached
+into it.
+
+The Mangaboos drove the horse and the kitten and the piglets into this
+dark hole and then, having pushed the buggy in after them--for it
+seemed some of them had dragged it all the way from the domed
+hall--they began to pile big glass rocks within the entrance, so that
+the prisoners could not get out again.
+
+"This is dreadful!" groaned Jim.  "It will be about the end of our
+adventures, I guess."
+
+"If the Wizard was here," said one of the piglets, sobbing bitterly,
+"he would not see us suffer so."
+
+"We ought to have called him and Dorothy when we were first attacked,"
+added Eureka.  "But never mind; be brave, my friends, and I will go
+and tell our masters where you are, and get them to come to your rescue."
+
+The mouth of the hole was nearly filled up now, but the kitten gave a
+leap through the remaining opening and at once scampered up into the
+air.  The Mangaboos saw her escape, and several of them caught up
+their thorns and gave chase, mounting through the air after her.
+Eureka, however, was lighter than the Mangaboos, and while they could
+mount only about a hundred feet above the earth the kitten found she
+could go nearly two hundred feet.  So she ran along over their heads
+until she had left them far behind and below and had come to the city
+and the House of the Sorcerer.  There she entered in at Dorothy's
+window in the dome and aroused her from her sleep.
+
+As soon as the little girl knew what had happened she awakened the
+Wizard and Zeb, and at once preparations were made to go to the rescue
+of Jim and the piglets.  The Wizard carried his satchel, which was
+quite heavy, and Zeb carried the two lanterns and the oil can.
+Dorothy's wicker suit-case was still under the seat of the buggy, and
+by good fortune the boy had also placed the harness in the buggy when
+he had taken it off from Jim to let the horse lie down and rest.  So
+there was nothing for the girl to carry but the kitten, which she held
+close to her bosom and tried to comfort, for its little heart was still
+beating rapidly.
+
+Some of the Mangaboos discovered them as soon as they left the House
+of the Sorcerer; but when they started toward the mountain the
+vegetable people allowed them to proceed without interference, yet
+followed in a crowd behind them so that they could not go back again.
+
+Before long they neared the Black Pit, where a busy swarm of
+Mangaboos, headed by their Princess, was engaged in piling up glass
+rocks before the entrance.
+
+"Stop, I command you!" cried the Wizard, in an angry tone, and at once
+began pulling down the rocks to liberate Jim and the piglets.  Instead
+of opposing him in this they stood back in silence until he had made a
+good-sized hole in the barrier, when by order of the Princess they all
+sprang forward and thrust out their sharp thorns.
+
+Dorothy hopped inside the opening to escape being pricked, and Zeb and
+the Wizard, after enduring a few stabs from the thorns, were glad to
+follow her.  At once the Mangaboos began piling up the rocks of glass
+again, and as the little man realized that they were all about to be
+entombed in the mountain he said to the children:
+
+"My dears, what shall we do?  Jump out and fight?"
+
+"What's the use?" replied Dorothy.  "I'd as soon die here as live much
+longer among these cruel and heartless people."
+
+"That's the way I feel about it," remarked Zeb, rubbing his wounds.
+"I've had enough of the Mangaboos."
+
+"All right," said the Wizard; "I'm with you, whatever you decide.  But
+we can't live long in this cavern, that's certain."
+
+Noticing that the light was growing dim he picked up his nine piglets,
+patted each one lovingly on its fat little head, and placed them
+carefully in his inside pocket.
+
+Zeb struck a match and lighted one of the lanterns.  The rays of the
+colored suns were now shut out from them forever, for the last chinks
+had been filled up in the wall that separated their prison from the
+Land of the Mangaboos.
+
+"How big is this hole?" asked Dorothy.
+
+"I'll explore it and see," replied the boy.
+
+So he carried the lantern back for quite a distance, while Dorothy and
+the Wizard followed at his side.  The cavern did not come to an end,
+as they had expected it would, but slanted upward through the great
+glass mountain, running in a direction that promised to lead them to
+the side opposite the Mangaboo country.
+
+"It isn't a bad road," observed the Wizard, "and if we followed it it
+might lead us to some place that is more comfortable than this black
+pocket we are now in.  I suppose the vegetable folk were always
+afraid to enter this cavern because it is dark; but we have our
+lanterns to light the way, so I propose that we start out and discover
+where this tunnel in the mountain leads to."
+
+The others agreed readily to this sensible suggestion, and at once the
+boy began to harness Jim to the buggy.  When all was in readiness the
+three took their seats in the buggy and Jim started cautiously along
+the way, Zeb driving while the Wizard and Dorothy each held a lighted
+lantern so the horse could see where to go.
+
+Sometimes the tunnel was so narrow that the wheels of the buggy grazed
+the sides; then it would broaden out as wide as a street; but the
+floor was usually smooth, and for a long time they travelled on
+without any accident.  Jim stopped sometimes to rest, for the climb
+was rather steep and tiresome.
+
+"We must be nearly as high as the six colored suns, by this time,"
+said Dorothy.  "I didn't know this mountain was so tall."
+
+"We are certainly a good distance away from the Land of the Mangaboos,"
+added Zeb; "for we have slanted away from it ever since we started."
+
+But they kept steadily moving, and just as Jim was about tired out with
+his long journey the way suddenly grew lighter, and Zeb put out the
+lanterns to save the oil.
+
+To their joy they found it was a white light that now greeted them,
+for all were weary of the colored rainbow lights which, after a time,
+had made their eyes ache with their constantly shifting rays.  The
+sides of the tunnel showed before them like the inside of a long
+spy-glass, and the floor became more level.  Jim hastened his lagging
+steps at this assurance of a quick relief from the dark passage, and
+in a few moments more they had emerged from the mountain and found
+themselves face to face with a new and charming country.
+
+
+
+8.  The Valley of Voices
+
+
+By journeying through the glass mountai
+
